@@ -1,0 +1,7 @@
+[
+    {
+      "name": "org.springframework.batch.item.support.AbstractItemCountingItemStreamItemReader",
+      "allDeclaredMethods": true
+    }
+  ]
+  
